@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinbabasportcommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinbabasportconsole" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinbabasportinterface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinbabasportlogin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinbabasportpojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinbabasportportal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinbabasportsdao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinbabasportservicecms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinbabasportserviceco" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinbabasportservicecob" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinbabasportservicecob" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinbabasportserviceproduct" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinbabasportservicesolr" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xinbabasportservicesolr:war">
+    <output-path>$PROJECT_DIR$/xinbabasportservicesolr/target</output-path>
+    <root id="archive" name="xinbabasport-service-solr-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="xinbabasportservicesolr:war exploded" />
+    </root>
+  </artifact>
+</component>

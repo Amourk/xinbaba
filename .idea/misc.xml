@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/xinbabasportconsole" />
+    <file type="web" url="file://$PROJECT_DIR$/xinbabasportlogin" />
+    <file type="web" url="file://$PROJECT_DIR$/xinbabasportportal" />
+    <file type="web" url="file://$PROJECT_DIR$/xinbabasportservicecms" />
+    <file type="web" url="file://$PROJECT_DIR$/xinbabasportserviceco" />
+    <file type="web" url="file://$PROJECT_DIR$/xinbabasportserviceco" />
+    <file type="web" url="file://$PROJECT_DIR$/xinbabasportservicecob" />
+    <file type="web" url="file://$PROJECT_DIR$/xinbabasportserviceproduct" />
+    <file type="web" url="file://$PROJECT_DIR$/xinbabasportservicesolr" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/xinbabasportdao/pom.xml" />
+        <option value="$PROJECT_DIR$/xinbabasportproduct/pom.xml" />
+        <option value="$PROJECT_DIR$/xinbabasportsolr/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

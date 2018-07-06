@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parent191.iml" filepath="$PROJECT_DIR$/parent191.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xinbabasportcommon/xinbabasportcommon.iml" filepath="$PROJECT_DIR$/xinbabasportcommon/xinbabasportcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xinbabasportconsole/xinbabasportconsole.iml" filepath="$PROJECT_DIR$/xinbabasportconsole/xinbabasportconsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xinbabasportinterface/xinbabasportinterface.iml" filepath="$PROJECT_DIR$/xinbabasportinterface/xinbabasportinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xinbabasportlogin/xinbabasportlogin.iml" filepath="$PROJECT_DIR$/xinbabasportlogin/xinbabasportlogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xinbabasportpojo/xinbabasportpojo.iml" filepath="$PROJECT_DIR$/xinbabasportpojo/xinbabasportpojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xinbabasportportal/xinbabasportportal.iml" filepath="$PROJECT_DIR$/xinbabasportportal/xinbabasportportal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xinbabasportsdao/xinbabasportsdao.iml" filepath="$PROJECT_DIR$/xinbabasportsdao/xinbabasportsdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xinbabasportservicecms/xinbabasportservicecms.iml" filepath="$PROJECT_DIR$/xinbabasportservicecms/xinbabasportservicecms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xinbabasportservicecob/xinbabasportservicecob.iml" filepath="$PROJECT_DIR$/xinbabasportservicecob/xinbabasportservicecob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xinbabasportserviceproduct/xinbabasportserviceproduct.iml" filepath="$PROJECT_DIR$/xinbabasportserviceproduct/xinbabasportserviceproduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xinbabasportservicesolr/xinbabasportservicesolr.iml" filepath="$PROJECT_DIR$/xinbabasportservicesolr/xinbabasportservicesolr.iml" />
+    </modules>
+  </component>
+</project>

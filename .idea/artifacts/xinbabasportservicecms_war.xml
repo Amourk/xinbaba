@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xinbabasportservicecms:war">
+    <output-path>$PROJECT_DIR$/xinbabasportservicecms/target</output-path>
+    <root id="archive" name="xinbabasport-service-cms-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="xinbabasportservicecms:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xinbabasportserviceproduct:war">
+    <output-path>$PROJECT_DIR$/xinbabasportserviceproduct/target</output-path>
+    <root id="archive" name="xinbabasport-service-product-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="xinbabasportserviceproduct:war exploded" />
+    </root>
+  </artifact>
+</component>

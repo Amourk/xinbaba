@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="xinbabasportcommon" />
+        <module name="xinbabasportconsole" />
+        <module name="xinbabasportinterface" />
+        <module name="xinbabasportlogin" />
+        <module name="xinbabasportpojo" />
+        <module name="xinbabasportportal" />
+        <module name="xinbabasportsdao" />
+        <module name="xinbabasportservicecms" />
+        <module name="xinbabasportservicecob" />
+        <module name="xinbabasportserviceproduct" />
+        <module name="xinbabasportservicesolr" />
+      </profile>
+      <profile name="Annotation profile for parent191" enabled="true">
+        <sourceOutputDir name="../xinbabasportservicecobs/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../xinbabasportservicecobs/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xinbabasportservicecobs" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="parent191" target="1.7" />
+      <module name="xinbabasportcommon" target="1.7" />
+      <module name="xinbabasportconsole" target="1.7" />
+      <module name="xinbabasportdao" target="1.7" />
+      <module name="xinbabasportinterface" target="1.7" />
+      <module name="xinbabasportlogin" target="1.7" />
+      <module name="xinbabasportpojo" target="1.7" />
+      <module name="xinbabasportportal" target="1.7" />
+      <module name="xinbabasportsdao" target="1.7" />
+      <module name="xinbabasportservicecms" target="1.7" />
+      <module name="xinbabasportservicecob" target="1.7" />
+      <module name="xinbabasportservicecobs" target="1.7" />
+      <module name="xinbabasportserviceproduct" target="1.7" />
+      <module name="xinbabasportservicesolr" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
